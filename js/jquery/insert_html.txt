@@ -1,0 +1,1 @@
+  // document.getElementById('info').innerHTML = [stuff you want to insert into the div with the particular id]
